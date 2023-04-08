@@ -1,0 +1,22 @@
+*,
+*::beefore,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+line-height: 1.5;
+ font-family:'Courier New', Courier, monospace;
+}
+
+.container {
+    max-width: 500px;
+    margin: 20px auto;
+}
+
+h1,
+h3,
+footer{
+    text-align:justify;
+    padding: 10px;
+}
